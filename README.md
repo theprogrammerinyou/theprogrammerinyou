@@ -11,8 +11,8 @@
   <li><b>📣 Languages:</b> English, Hindi & Telugu </li>
 </ul>
 
-<p>I'm Shivansh Shukla a computer engineer diving into the world of AI. I'm a looking for a job in the field of web development, 
-  where I want to make great websites and make visiting websites be fun instead of being like oh what a shitty UI this website has. I'm passionate about programming and want to help people from diverse backgrounds to code.
+<p>I'm Shivansh Shukla a computer engineer diving into the world of Hindi Literature. I'm a currently learning web development, 
+  am currently looking for ideas which could solve real world problems with the help of websites. I'm passionate about programming and want to help people from diverse backgrounds to be able to code.
 </p>
 
 </div>
@@ -21,8 +21,8 @@
 
 <h2><img src="https://thumbs.gfycat.com/ScaryCreamyGlobefish.webp" alt="computer" width="80"> I'm currently ...</h2>
 
-- 🔭 coding react projects & relaunching my personal website.
-- 🌱 learning testing & Shell scripting (Both are SO COOL!)
+- 🔭 coding react projects & launching my personal website.
+- 🌱 learning testing & Shell scripting (Both are AMAZING!)
 - 📚 Reading: **"Eloquent Javascript and Godan(By Premchand)"**
 - 🎧 Listening: Dhaaga By Nilotpal Bora
 
