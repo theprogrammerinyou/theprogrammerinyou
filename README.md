@@ -9,8 +9,8 @@
   <li><b>📣 Languages:</b> English, Hindi & Telugu </li>
 </ul>
 
-<p>I'm Shivansh Shukla a computer engineer diving into the world of Hindi Literature. I'm a currently learning web development, 
-  am currently looking for ideas which could solve real world problems with the help of websites. I'm passionate about programming and want to help people from diverse backgrounds to be able to code.
+<p>I'm Shivansh Shukla a computer engineer diving into the world of Hindi Literature. I'm a currently learning web development, system design and more about ML and LLMs,
+  am currently looking for ideas which could solve real world problems with the help of websites or mobile apps. I'm passionate about programming and want to help people from diverse backgrounds to be able to code.
 </p>
 
 </div>
